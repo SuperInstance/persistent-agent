@@ -1,0 +1,9 @@
+[package]
+name = "persistent-agent"
+version = "0.1.0"
+edition = "2021"
+description = "Persistent homology for agent behavior analysis: Vietoris-Rips complexes, barcodes, and archetype classification"
+license = "MIT"
+repository = "https://github.com/SuperInstance/persistent-agent"
+
+[dependencies]
